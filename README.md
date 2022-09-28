@@ -7,7 +7,7 @@ If you would like to contact me, you can reach me at:
 
 [LinkedIN - Rafael Ribeiro](https://www.linkedin.com/in/rafael-ribeiro/).
 
-	![alt text]([image.jpg](https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico))
+[alt text]([image.jpg](https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico))
 
 
 Thanks!
