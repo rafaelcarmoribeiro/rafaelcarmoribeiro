@@ -6,6 +6,7 @@ This GitHub profile contains some projects that I built, some examples/samples o
 If you would like to contact me, you can reach me at:
 
 ![LinkedIN](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)
+
 [Rafael Ribeiro](https://www.linkedin.com/in/rafael-ribeiro/).
 
 
