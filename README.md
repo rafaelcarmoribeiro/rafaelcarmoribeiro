@@ -10,7 +10,6 @@ If you would like to contact me, you can reach me at:
 
 [Rafael Ribeiro](https://www.linkedin.com/in/rafael-ribeiro/).
 
-
 Thanks!
 
 <!--
