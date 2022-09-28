@@ -7,7 +7,7 @@ If you would like to contact me, you can reach me at:
 
 [LinkedIN - Rafael Ribeiro](https://www.linkedin.com/in/rafael-ribeiro/).
 
-![LinkedIN](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+![LinkedIN](https://cdn-icons-png.flaticon.com/512/174/174857.png height="50%")
 
 
 [alt text]([image.jpg](https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico))
