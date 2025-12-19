@@ -10,8 +10,8 @@ In this repository, you will find a curated collection of projects developed thr
 ### 🛠️ Connect with me
 I am always open to professional networking and interesting projects.
 
-*   **LinkedIn:** [linkedin.com](https://www.linkedin.com/)
-*   **Email:** [Seu e-mail aqui, se desejar]
+*   **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/rafael-ribeiro/)]
+*   **Email:** [rafaelcarmoribeiro@gmail.com]
 
 ---
 *Thanks for visiting!*
