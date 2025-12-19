@@ -1,5 +1,6 @@
-### Hi there! Welcome to my profile. 👋
+### Rafael Ribeiro - AI Specialist
 
+Hi there! Welcome to my profile. 👋
 I am **Rafael Ribeiro**, a specialist focused on turning data into intelligence. My expertise spans across **AI**, **Data Science**, **Data Engineering**, and **Business Intelligence**.
 
 In this repository, you will find a curated collection of projects developed throughout my career, including Python implementations, technical samples, and architectural presentations.
