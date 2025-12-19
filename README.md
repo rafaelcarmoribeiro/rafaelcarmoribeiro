@@ -1,13 +1,20 @@
-### Hi everyone! Welcome! 👋
+### Hi there! Welcome to my profile. 👋
 
-I´m Rafael Ribeiro, a **Data Scientist** and also a **BI Specialist**.
-This GitHub profile contains some projects that I built, some examples/samples of functions/structures of languages like SQL, Python & etc and also some brief presentations about projects.
+I am **Rafael Ribeiro**, a specialist focused on turning data into intelligence. My expertise spans across **AI**, **Data Science**, **Data Engineering**, and **Business Intelligence**.
 
-If you would like to contact me, you can reach me at:
+In this repository, you will find a curated collection of projects developed throughout my career, including Python implementations, technical samples, and architectural presentations.
 
-[LinkedIN - Rafael Ribeiro](https://www.linkedin.com/in/rafael-ribeiro/).
+> [!IMPORTANT]
+> Some projects and proprietary developments cannot be shared publicly due to **Non-Disclosure Agreements (NDA)**.
 
-Thanks!
+### 🛠️ Connect with me
+I am always open to professional networking and interesting projects.
+
+*   **LinkedIn:** [linkedin.com](https://www.linkedin.com/)
+*   **Email:** [Seu e-mail aqui, se desejar]
+
+---
+*Thanks for visiting!*
 
 <!--
 **rafaelcarmoribeiro/rafaelcarmoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
